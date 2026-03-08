@@ -11,7 +11,7 @@ const NOCTYRA_CONFIG = {
       tagline: "O universo de cada jogo, revelado.",
       description:
         "Explore a origem, o universo e o guia completo dos maiores jogos da história. Do primeiro passo ao domínio total.",
-      year: 2025,
+      year: 2026,
     },
   
     // ── TEMA / CORES ──────────────────────────────────────────
@@ -40,7 +40,7 @@ const NOCTYRA_CONFIG = {
   
     // ── HERO ──────────────────────────────────────────────────
     hero: {
-      featuredGameId: "eldenring",
+      featuredGameId: "hollow",
       badge: "⬡ Destaque da Semana",
     },
   
@@ -367,4 +367,5 @@ const NOCTYRA_CONFIG = {
         ],
       },
     ],
+
   };
